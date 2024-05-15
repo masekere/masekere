@@ -1,3 +1,4 @@
+![mgm](./gift-github.png)
 ### Hi there 👋, I'm Gift Masekere
 
 I'm a passionate MERN stack developer with 4 of experience in building web applications. 
@@ -7,8 +8,14 @@ I love to solve problems and create efficient, scalable solutions. Here's a bit 
 - 🌱 I’m currently learning on the SDLC life cycle 
 - 💬 Ask me about anything related to MERN stack development
 - 📫 How to reach me: masekeregift@gmail.com
-- 😄 Pronouns: [Your Pronouns]
-  
+
+## Connect with me
+[![dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=for-the-badge)](https://dev.to/)
+<span style="margin-right: 20px;"></span>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://zw.linkedin.com/)
+<span style="margin-right: 20px;"></span>
+[![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)](https://twitter.com/?lang=en)
+
 ## Skills
 
 - Frontend: HTML, CSS, JavaScript, Typescript, React.js
